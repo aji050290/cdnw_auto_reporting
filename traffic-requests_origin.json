@@ -279109,6 +279109,1560 @@
                     "bandwidth": "3.34",
                     "traffic": "125.10",
                     "requests": "55786"
+                },
+                {
+                    "timestamp": "2025-10-08 12:55",
+                    "bandwidth": "6.10",
+                    "traffic": "228.64",
+                    "requests": "53520"
+                },
+                {
+                    "timestamp": "2025-10-08 13:00",
+                    "bandwidth": "7.90",
+                    "traffic": "296.11",
+                    "requests": "55134"
+                },
+                {
+                    "timestamp": "2025-10-08 13:05",
+                    "bandwidth": "10.19",
+                    "traffic": "382.31",
+                    "requests": "59806"
+                },
+                {
+                    "timestamp": "2025-10-08 13:10",
+                    "bandwidth": "4.14",
+                    "traffic": "155.16",
+                    "requests": "56534"
+                },
+                {
+                    "timestamp": "2025-10-08 13:15",
+                    "bandwidth": "3.35",
+                    "traffic": "125.59",
+                    "requests": "58758"
+                },
+                {
+                    "timestamp": "2025-10-08 13:20",
+                    "bandwidth": "3.97",
+                    "traffic": "148.99",
+                    "requests": "64832"
+                },
+                {
+                    "timestamp": "2025-10-08 13:25",
+                    "bandwidth": "4.98",
+                    "traffic": "186.76",
+                    "requests": "56324"
+                },
+                {
+                    "timestamp": "2025-10-08 13:30",
+                    "bandwidth": "6.29",
+                    "traffic": "235.87",
+                    "requests": "55593"
+                },
+                {
+                    "timestamp": "2025-10-08 13:35",
+                    "bandwidth": "5.75",
+                    "traffic": "215.44",
+                    "requests": "59350"
+                },
+                {
+                    "timestamp": "2025-10-08 13:40",
+                    "bandwidth": "3.96",
+                    "traffic": "148.38",
+                    "requests": "55584"
+                },
+                {
+                    "timestamp": "2025-10-08 13:45",
+                    "bandwidth": "4.05",
+                    "traffic": "152.04",
+                    "requests": "58287"
+                },
+                {
+                    "timestamp": "2025-10-08 13:50",
+                    "bandwidth": "3.66",
+                    "traffic": "137.16",
+                    "requests": "57348"
+                },
+                {
+                    "timestamp": "2025-10-08 13:55",
+                    "bandwidth": "3.20",
+                    "traffic": "120.06",
+                    "requests": "52191"
+                },
+                {
+                    "timestamp": "2025-10-08 14:00",
+                    "bandwidth": "3.06",
+                    "traffic": "114.89",
+                    "requests": "48883"
+                },
+                {
+                    "timestamp": "2025-10-08 14:05",
+                    "bandwidth": "3.85",
+                    "traffic": "144.23",
+                    "requests": "55735"
+                },
+                {
+                    "timestamp": "2025-10-08 14:10",
+                    "bandwidth": "3.34",
+                    "traffic": "125.07",
+                    "requests": "52276"
+                },
+                {
+                    "timestamp": "2025-10-08 14:15",
+                    "bandwidth": "4.35",
+                    "traffic": "163.31",
+                    "requests": "52570"
+                },
+                {
+                    "timestamp": "2025-10-08 14:20",
+                    "bandwidth": "4.00",
+                    "traffic": "150.15",
+                    "requests": "50993"
+                },
+                {
+                    "timestamp": "2025-10-08 14:25",
+                    "bandwidth": "3.19",
+                    "traffic": "119.75",
+                    "requests": "51488"
+                },
+                {
+                    "timestamp": "2025-10-08 14:30",
+                    "bandwidth": "3.74",
+                    "traffic": "140.13",
+                    "requests": "55590"
+                },
+                {
+                    "timestamp": "2025-10-08 14:35",
+                    "bandwidth": "4.09",
+                    "traffic": "153.49",
+                    "requests": "56808"
+                },
+                {
+                    "timestamp": "2025-10-08 14:40",
+                    "bandwidth": "3.33",
+                    "traffic": "124.85",
+                    "requests": "55182"
+                },
+                {
+                    "timestamp": "2025-10-08 14:45",
+                    "bandwidth": "3.82",
+                    "traffic": "143.23",
+                    "requests": "55299"
+                },
+                {
+                    "timestamp": "2025-10-08 14:50",
+                    "bandwidth": "8.28",
+                    "traffic": "310.47",
+                    "requests": "52857"
+                },
+                {
+                    "timestamp": "2025-10-08 14:55",
+                    "bandwidth": "3.47",
+                    "traffic": "130.19",
+                    "requests": "53520"
+                },
+                {
+                    "timestamp": "2025-10-08 15:00",
+                    "bandwidth": "4.21",
+                    "traffic": "157.74",
+                    "requests": "55348"
+                },
+                {
+                    "timestamp": "2025-10-08 15:05",
+                    "bandwidth": "3.69",
+                    "traffic": "138.56",
+                    "requests": "54198"
+                },
+                {
+                    "timestamp": "2025-10-08 15:10",
+                    "bandwidth": "3.55",
+                    "traffic": "133.10",
+                    "requests": "52540"
+                },
+                {
+                    "timestamp": "2025-10-08 15:15",
+                    "bandwidth": "4.90",
+                    "traffic": "183.86",
+                    "requests": "55429"
+                },
+                {
+                    "timestamp": "2025-10-08 15:20",
+                    "bandwidth": "7.06",
+                    "traffic": "264.73",
+                    "requests": "53525"
+                },
+                {
+                    "timestamp": "2025-10-08 15:25",
+                    "bandwidth": "4.41",
+                    "traffic": "165.54",
+                    "requests": "58680"
+                },
+                {
+                    "timestamp": "2025-10-08 15:30",
+                    "bandwidth": "3.96",
+                    "traffic": "148.46",
+                    "requests": "53072"
+                },
+                {
+                    "timestamp": "2025-10-08 15:35",
+                    "bandwidth": "4.67",
+                    "traffic": "175.14",
+                    "requests": "64119"
+                },
+                {
+                    "timestamp": "2025-10-08 15:40",
+                    "bandwidth": "3.70",
+                    "traffic": "138.86",
+                    "requests": "52426"
+                },
+                {
+                    "timestamp": "2025-10-08 15:45",
+                    "bandwidth": "4.47",
+                    "traffic": "167.59",
+                    "requests": "54004"
+                },
+                {
+                    "timestamp": "2025-10-08 15:50",
+                    "bandwidth": "4.06",
+                    "traffic": "152.16",
+                    "requests": "54552"
+                },
+                {
+                    "timestamp": "2025-10-08 15:55",
+                    "bandwidth": "4.04",
+                    "traffic": "151.53",
+                    "requests": "53146"
+                },
+                {
+                    "timestamp": "2025-10-08 16:00",
+                    "bandwidth": "4.40",
+                    "traffic": "165.06",
+                    "requests": "51246"
+                },
+                {
+                    "timestamp": "2025-10-08 16:05",
+                    "bandwidth": "4.46",
+                    "traffic": "167.34",
+                    "requests": "51999"
+                },
+                {
+                    "timestamp": "2025-10-08 16:10",
+                    "bandwidth": "4.91",
+                    "traffic": "184.31",
+                    "requests": "52367"
+                },
+                {
+                    "timestamp": "2025-10-08 16:15",
+                    "bandwidth": "3.71",
+                    "traffic": "138.96",
+                    "requests": "46611"
+                },
+                {
+                    "timestamp": "2025-10-08 16:20",
+                    "bandwidth": "2.15",
+                    "traffic": "80.46",
+                    "requests": "36428"
+                },
+                {
+                    "timestamp": "2025-10-08 16:25",
+                    "bandwidth": "2.14",
+                    "traffic": "80.18",
+                    "requests": "38448"
+                },
+                {
+                    "timestamp": "2025-10-08 16:30",
+                    "bandwidth": "2.75",
+                    "traffic": "102.95",
+                    "requests": "39665"
+                },
+                {
+                    "timestamp": "2025-10-08 16:35",
+                    "bandwidth": "11.10",
+                    "traffic": "416.22",
+                    "requests": "45658"
+                },
+                {
+                    "timestamp": "2025-10-08 16:40",
+                    "bandwidth": "6.24",
+                    "traffic": "233.94",
+                    "requests": "44687"
+                },
+                {
+                    "timestamp": "2025-10-08 16:45",
+                    "bandwidth": "4.36",
+                    "traffic": "163.40",
+                    "requests": "40043"
+                },
+                {
+                    "timestamp": "2025-10-08 16:50",
+                    "bandwidth": "4.30",
+                    "traffic": "161.33",
+                    "requests": "42204"
+                },
+                {
+                    "timestamp": "2025-10-08 16:55",
+                    "bandwidth": "3.32",
+                    "traffic": "124.61",
+                    "requests": "40458"
+                },
+                {
+                    "timestamp": "2025-10-08 17:00",
+                    "bandwidth": "2.36",
+                    "traffic": "88.57",
+                    "requests": "39873"
+                },
+                {
+                    "timestamp": "2025-10-08 17:05",
+                    "bandwidth": "3.72",
+                    "traffic": "139.52",
+                    "requests": "40393"
+                },
+                {
+                    "timestamp": "2025-10-08 17:10",
+                    "bandwidth": "3.11",
+                    "traffic": "116.69",
+                    "requests": "43706"
+                },
+                {
+                    "timestamp": "2025-10-08 17:15",
+                    "bandwidth": "2.94",
+                    "traffic": "110.25",
+                    "requests": "44371"
+                },
+                {
+                    "timestamp": "2025-10-08 17:20",
+                    "bandwidth": "2.90",
+                    "traffic": "108.88",
+                    "requests": "43952"
+                },
+                {
+                    "timestamp": "2025-10-08 17:25",
+                    "bandwidth": "2.96",
+                    "traffic": "110.92",
+                    "requests": "45368"
+                },
+                {
+                    "timestamp": "2025-10-08 17:30",
+                    "bandwidth": "2.43",
+                    "traffic": "91.02",
+                    "requests": "45505"
+                },
+                {
+                    "timestamp": "2025-10-08 17:35",
+                    "bandwidth": "3.26",
+                    "traffic": "122.20",
+                    "requests": "50708"
+                },
+                {
+                    "timestamp": "2025-10-08 17:40",
+                    "bandwidth": "2.62",
+                    "traffic": "98.32",
+                    "requests": "45226"
+                },
+                {
+                    "timestamp": "2025-10-08 17:45",
+                    "bandwidth": "2.49",
+                    "traffic": "93.52",
+                    "requests": "43814"
+                },
+                {
+                    "timestamp": "2025-10-08 17:50",
+                    "bandwidth": "3.20",
+                    "traffic": "119.82",
+                    "requests": "51213"
+                },
+                {
+                    "timestamp": "2025-10-08 17:55",
+                    "bandwidth": "2.33",
+                    "traffic": "87.34",
+                    "requests": "44975"
+                },
+                {
+                    "timestamp": "2025-10-08 18:00",
+                    "bandwidth": "3.28",
+                    "traffic": "123.17",
+                    "requests": "49509"
+                },
+                {
+                    "timestamp": "2025-10-08 18:05",
+                    "bandwidth": "2.60",
+                    "traffic": "97.47",
+                    "requests": "47040"
+                },
+                {
+                    "timestamp": "2025-10-08 18:10",
+                    "bandwidth": "11.48",
+                    "traffic": "430.39",
+                    "requests": "50936"
+                },
+                {
+                    "timestamp": "2025-10-08 18:15",
+                    "bandwidth": "3.33",
+                    "traffic": "125.00",
+                    "requests": "48660"
+                },
+                {
+                    "timestamp": "2025-10-08 18:20",
+                    "bandwidth": "3.27",
+                    "traffic": "122.57",
+                    "requests": "47594"
+                },
+                {
+                    "timestamp": "2025-10-08 18:25",
+                    "bandwidth": "2.41",
+                    "traffic": "90.45",
+                    "requests": "47058"
+                },
+                {
+                    "timestamp": "2025-10-08 18:30",
+                    "bandwidth": "2.59",
+                    "traffic": "97.27",
+                    "requests": "46672"
+                },
+                {
+                    "timestamp": "2025-10-08 18:35",
+                    "bandwidth": "3.94",
+                    "traffic": "147.66",
+                    "requests": "53586"
+                },
+                {
+                    "timestamp": "2025-10-08 18:40",
+                    "bandwidth": "2.10",
+                    "traffic": "78.57",
+                    "requests": "44059"
+                },
+                {
+                    "timestamp": "2025-10-08 18:45",
+                    "bandwidth": "2.05",
+                    "traffic": "76.73",
+                    "requests": "43221"
+                },
+                {
+                    "timestamp": "2025-10-08 18:50",
+                    "bandwidth": "2.28",
+                    "traffic": "85.57",
+                    "requests": "47187"
+                },
+                {
+                    "timestamp": "2025-10-08 18:55",
+                    "bandwidth": "2.01",
+                    "traffic": "75.51",
+                    "requests": "44832"
+                },
+                {
+                    "timestamp": "2025-10-08 19:00",
+                    "bandwidth": "2.68",
+                    "traffic": "100.50",
+                    "requests": "45758"
+                },
+                {
+                    "timestamp": "2025-10-08 19:05",
+                    "bandwidth": "2.65",
+                    "traffic": "99.48",
+                    "requests": "44478"
+                },
+                {
+                    "timestamp": "2025-10-08 19:10",
+                    "bandwidth": "4.67",
+                    "traffic": "175.20",
+                    "requests": "46902"
+                },
+                {
+                    "timestamp": "2025-10-08 19:15",
+                    "bandwidth": "2.08",
+                    "traffic": "77.90",
+                    "requests": "45014"
+                },
+                {
+                    "timestamp": "2025-10-08 19:20",
+                    "bandwidth": "2.08",
+                    "traffic": "78.16",
+                    "requests": "43163"
+                },
+                {
+                    "timestamp": "2025-10-08 19:25",
+                    "bandwidth": "2.87",
+                    "traffic": "107.49",
+                    "requests": "49589"
+                },
+                {
+                    "timestamp": "2025-10-08 19:30",
+                    "bandwidth": "3.36",
+                    "traffic": "125.87",
+                    "requests": "61356"
+                },
+                {
+                    "timestamp": "2025-10-08 19:35",
+                    "bandwidth": "3.95",
+                    "traffic": "148.30",
+                    "requests": "58215"
+                },
+                {
+                    "timestamp": "2025-10-08 19:40",
+                    "bandwidth": "4.04",
+                    "traffic": "151.40",
+                    "requests": "64436"
+                },
+                {
+                    "timestamp": "2025-10-08 19:45",
+                    "bandwidth": "2.43",
+                    "traffic": "91.25",
+                    "requests": "41354"
+                },
+                {
+                    "timestamp": "2025-10-08 19:50",
+                    "bandwidth": "3.00",
+                    "traffic": "112.48",
+                    "requests": "48212"
+                },
+                {
+                    "timestamp": "2025-10-08 19:55",
+                    "bandwidth": "2.79",
+                    "traffic": "104.56",
+                    "requests": "45626"
+                },
+                {
+                    "timestamp": "2025-10-08 20:00",
+                    "bandwidth": "3.50",
+                    "traffic": "131.08",
+                    "requests": "55709"
+                },
+                {
+                    "timestamp": "2025-10-08 20:05",
+                    "bandwidth": "3.33",
+                    "traffic": "124.87",
+                    "requests": "53159"
+                },
+                {
+                    "timestamp": "2025-10-08 20:10",
+                    "bandwidth": "2.78",
+                    "traffic": "104.13",
+                    "requests": "49125"
+                },
+                {
+                    "timestamp": "2025-10-08 20:15",
+                    "bandwidth": "2.78",
+                    "traffic": "104.28",
+                    "requests": "44939"
+                },
+                {
+                    "timestamp": "2025-10-08 20:20",
+                    "bandwidth": "3.28",
+                    "traffic": "123.11",
+                    "requests": "46436"
+                },
+                {
+                    "timestamp": "2025-10-08 20:25",
+                    "bandwidth": "4.89",
+                    "traffic": "183.44",
+                    "requests": "44392"
+                },
+                {
+                    "timestamp": "2025-10-08 20:30",
+                    "bandwidth": "3.08",
+                    "traffic": "115.39",
+                    "requests": "49650"
+                },
+                {
+                    "timestamp": "2025-10-08 20:35",
+                    "bandwidth": "3.27",
+                    "traffic": "122.66",
+                    "requests": "43201"
+                },
+                {
+                    "timestamp": "2025-10-08 20:40",
+                    "bandwidth": "3.09",
+                    "traffic": "116.01",
+                    "requests": "40476"
+                },
+                {
+                    "timestamp": "2025-10-08 20:45",
+                    "bandwidth": "2.34",
+                    "traffic": "87.91",
+                    "requests": "42211"
+                },
+                {
+                    "timestamp": "2025-10-08 20:50",
+                    "bandwidth": "2.42",
+                    "traffic": "90.80",
+                    "requests": "43446"
+                },
+                {
+                    "timestamp": "2025-10-08 20:55",
+                    "bandwidth": "2.68",
+                    "traffic": "100.47",
+                    "requests": "44409"
+                },
+                {
+                    "timestamp": "2025-10-08 21:00",
+                    "bandwidth": "2.44",
+                    "traffic": "91.67",
+                    "requests": "41822"
+                },
+                {
+                    "timestamp": "2025-10-08 21:05",
+                    "bandwidth": "2.66",
+                    "traffic": "99.88",
+                    "requests": "43033"
+                },
+                {
+                    "timestamp": "2025-10-08 21:10",
+                    "bandwidth": "2.68",
+                    "traffic": "100.44",
+                    "requests": "46965"
+                },
+                {
+                    "timestamp": "2025-10-08 21:15",
+                    "bandwidth": "3.66",
+                    "traffic": "137.08",
+                    "requests": "55267"
+                },
+                {
+                    "timestamp": "2025-10-08 21:20",
+                    "bandwidth": "3.20",
+                    "traffic": "119.97",
+                    "requests": "52976"
+                },
+                {
+                    "timestamp": "2025-10-08 21:25",
+                    "bandwidth": "2.72",
+                    "traffic": "102.12",
+                    "requests": "48213"
+                },
+                {
+                    "timestamp": "2025-10-08 21:30",
+                    "bandwidth": "3.26",
+                    "traffic": "122.17",
+                    "requests": "55209"
+                },
+                {
+                    "timestamp": "2025-10-08 21:35",
+                    "bandwidth": "3.47",
+                    "traffic": "130.19",
+                    "requests": "50543"
+                },
+                {
+                    "timestamp": "2025-10-08 21:40",
+                    "bandwidth": "4.64",
+                    "traffic": "174.06",
+                    "requests": "53006"
+                },
+                {
+                    "timestamp": "2025-10-08 21:45",
+                    "bandwidth": "2.81",
+                    "traffic": "105.39",
+                    "requests": "53571"
+                },
+                {
+                    "timestamp": "2025-10-08 21:50",
+                    "bandwidth": "3.13",
+                    "traffic": "117.46",
+                    "requests": "49093"
+                },
+                {
+                    "timestamp": "2025-10-08 21:55",
+                    "bandwidth": "4.60",
+                    "traffic": "172.54",
+                    "requests": "50117"
+                },
+                {
+                    "timestamp": "2025-10-08 22:00",
+                    "bandwidth": "4.77",
+                    "traffic": "178.75",
+                    "requests": "53397"
+                },
+                {
+                    "timestamp": "2025-10-08 22:05",
+                    "bandwidth": "3.25",
+                    "traffic": "121.88",
+                    "requests": "60853"
+                },
+                {
+                    "timestamp": "2025-10-08 22:10",
+                    "bandwidth": "2.68",
+                    "traffic": "100.47",
+                    "requests": "58486"
+                },
+                {
+                    "timestamp": "2025-10-08 22:15",
+                    "bandwidth": "2.53",
+                    "traffic": "94.73",
+                    "requests": "56844"
+                },
+                {
+                    "timestamp": "2025-10-08 22:20",
+                    "bandwidth": "2.84",
+                    "traffic": "106.45",
+                    "requests": "56102"
+                },
+                {
+                    "timestamp": "2025-10-08 22:25",
+                    "bandwidth": "2.87",
+                    "traffic": "107.76",
+                    "requests": "57937"
+                },
+                {
+                    "timestamp": "2025-10-08 22:30",
+                    "bandwidth": "2.46",
+                    "traffic": "92.37",
+                    "requests": "49017"
+                },
+                {
+                    "timestamp": "2025-10-08 22:35",
+                    "bandwidth": "2.04",
+                    "traffic": "76.48",
+                    "requests": "40751"
+                },
+                {
+                    "timestamp": "2025-10-08 22:40",
+                    "bandwidth": "2.03",
+                    "traffic": "76.27",
+                    "requests": "37296"
+                },
+                {
+                    "timestamp": "2025-10-08 22:45",
+                    "bandwidth": "2.23",
+                    "traffic": "83.69",
+                    "requests": "38354"
+                },
+                {
+                    "timestamp": "2025-10-08 22:50",
+                    "bandwidth": "1.82",
+                    "traffic": "68.37",
+                    "requests": "38827"
+                },
+                {
+                    "timestamp": "2025-10-08 22:55",
+                    "bandwidth": "1.70",
+                    "traffic": "63.62",
+                    "requests": "34056"
+                },
+                {
+                    "timestamp": "2025-10-08 23:00",
+                    "bandwidth": "1.73",
+                    "traffic": "64.79",
+                    "requests": "33701"
+                },
+                {
+                    "timestamp": "2025-10-08 23:05",
+                    "bandwidth": "1.54",
+                    "traffic": "57.91",
+                    "requests": "32048"
+                },
+                {
+                    "timestamp": "2025-10-08 23:10",
+                    "bandwidth": "2.80",
+                    "traffic": "104.95",
+                    "requests": "33479"
+                },
+                {
+                    "timestamp": "2025-10-08 23:15",
+                    "bandwidth": "4.86",
+                    "traffic": "182.27",
+                    "requests": "34257"
+                },
+                {
+                    "timestamp": "2025-10-08 23:20",
+                    "bandwidth": "2.61",
+                    "traffic": "97.69",
+                    "requests": "33984"
+                },
+                {
+                    "timestamp": "2025-10-08 23:25",
+                    "bandwidth": "2.28",
+                    "traffic": "85.39",
+                    "requests": "31022"
+                },
+                {
+                    "timestamp": "2025-10-08 23:30",
+                    "bandwidth": "1.60",
+                    "traffic": "60.03",
+                    "requests": "31677"
+                },
+                {
+                    "timestamp": "2025-10-08 23:35",
+                    "bandwidth": "1.59",
+                    "traffic": "59.50",
+                    "requests": "27170"
+                },
+                {
+                    "timestamp": "2025-10-08 23:40",
+                    "bandwidth": "1.39",
+                    "traffic": "52.05",
+                    "requests": "28129"
+                },
+                {
+                    "timestamp": "2025-10-08 23:45",
+                    "bandwidth": "1.46",
+                    "traffic": "54.68",
+                    "requests": "32364"
+                },
+                {
+                    "timestamp": "2025-10-08 23:50",
+                    "bandwidth": "1.16",
+                    "traffic": "43.64",
+                    "requests": "26269"
+                },
+                {
+                    "timestamp": "2025-10-08 23:55",
+                    "bandwidth": "1.35",
+                    "traffic": "50.65",
+                    "requests": "30414"
+                },
+                {
+                    "timestamp": "2025-10-09 00:00",
+                    "bandwidth": "1.41",
+                    "traffic": "52.85",
+                    "requests": "28260"
+                },
+                {
+                    "timestamp": "2025-10-09 00:05",
+                    "bandwidth": "1.69",
+                    "traffic": "63.29",
+                    "requests": "31730"
+                },
+                {
+                    "timestamp": "2025-10-09 00:10",
+                    "bandwidth": "1.93",
+                    "traffic": "72.23",
+                    "requests": "40165"
+                },
+                {
+                    "timestamp": "2025-10-09 00:15",
+                    "bandwidth": "2.02",
+                    "traffic": "75.64",
+                    "requests": "40624"
+                },
+                {
+                    "timestamp": "2025-10-09 00:20",
+                    "bandwidth": "1.78",
+                    "traffic": "66.93",
+                    "requests": "36611"
+                },
+                {
+                    "timestamp": "2025-10-09 00:25",
+                    "bandwidth": "1.55",
+                    "traffic": "58.19",
+                    "requests": "37017"
+                },
+                {
+                    "timestamp": "2025-10-09 00:30",
+                    "bandwidth": "1.79",
+                    "traffic": "66.97",
+                    "requests": "40295"
+                },
+                {
+                    "timestamp": "2025-10-09 00:35",
+                    "bandwidth": "1.78",
+                    "traffic": "66.63",
+                    "requests": "39627"
+                },
+                {
+                    "timestamp": "2025-10-09 00:40",
+                    "bandwidth": "1.49",
+                    "traffic": "55.95",
+                    "requests": "34972"
+                },
+                {
+                    "timestamp": "2025-10-09 00:45",
+                    "bandwidth": "1.47",
+                    "traffic": "55.28",
+                    "requests": "28344"
+                },
+                {
+                    "timestamp": "2025-10-09 00:50",
+                    "bandwidth": "1.00",
+                    "traffic": "37.67",
+                    "requests": "21529"
+                },
+                {
+                    "timestamp": "2025-10-09 00:55",
+                    "bandwidth": "0.80",
+                    "traffic": "30.03",
+                    "requests": "20288"
+                },
+                {
+                    "timestamp": "2025-10-09 01:00",
+                    "bandwidth": "0.94",
+                    "traffic": "35.16",
+                    "requests": "22414"
+                },
+                {
+                    "timestamp": "2025-10-09 01:05",
+                    "bandwidth": "0.81",
+                    "traffic": "30.54",
+                    "requests": "19615"
+                },
+                {
+                    "timestamp": "2025-10-09 01:10",
+                    "bandwidth": "0.92",
+                    "traffic": "34.39",
+                    "requests": "21803"
+                },
+                {
+                    "timestamp": "2025-10-09 01:15",
+                    "bandwidth": "0.79",
+                    "traffic": "29.81",
+                    "requests": "18011"
+                },
+                {
+                    "timestamp": "2025-10-09 01:20",
+                    "bandwidth": "0.89",
+                    "traffic": "33.41",
+                    "requests": "17200"
+                },
+                {
+                    "timestamp": "2025-10-09 01:25",
+                    "bandwidth": "0.84",
+                    "traffic": "31.35",
+                    "requests": "18657"
+                },
+                {
+                    "timestamp": "2025-10-09 01:30",
+                    "bandwidth": "1.07",
+                    "traffic": "40.23",
+                    "requests": "23128"
+                },
+                {
+                    "timestamp": "2025-10-09 01:35",
+                    "bandwidth": "0.88",
+                    "traffic": "33.11",
+                    "requests": "19750"
+                },
+                {
+                    "timestamp": "2025-10-09 01:40",
+                    "bandwidth": "0.80",
+                    "traffic": "29.98",
+                    "requests": "17698"
+                },
+                {
+                    "timestamp": "2025-10-09 01:45",
+                    "bandwidth": "0.77",
+                    "traffic": "28.82",
+                    "requests": "17735"
+                },
+                {
+                    "timestamp": "2025-10-09 01:50",
+                    "bandwidth": "0.92",
+                    "traffic": "34.66",
+                    "requests": "18761"
+                },
+                {
+                    "timestamp": "2025-10-09 01:55",
+                    "bandwidth": "0.77",
+                    "traffic": "28.85",
+                    "requests": "18313"
+                },
+                {
+                    "timestamp": "2025-10-09 02:00",
+                    "bandwidth": "0.78",
+                    "traffic": "29.16",
+                    "requests": "18429"
+                },
+                {
+                    "timestamp": "2025-10-09 02:05",
+                    "bandwidth": "1.23",
+                    "traffic": "46.20",
+                    "requests": "17747"
+                },
+                {
+                    "timestamp": "2025-10-09 02:10",
+                    "bandwidth": "0.87",
+                    "traffic": "32.80",
+                    "requests": "17678"
+                },
+                {
+                    "timestamp": "2025-10-09 02:15",
+                    "bandwidth": "0.90",
+                    "traffic": "33.65",
+                    "requests": "19687"
+                },
+                {
+                    "timestamp": "2025-10-09 02:20",
+                    "bandwidth": "0.69",
+                    "traffic": "25.85",
+                    "requests": "15927"
+                },
+                {
+                    "timestamp": "2025-10-09 02:25",
+                    "bandwidth": "0.76",
+                    "traffic": "28.66",
+                    "requests": "18517"
+                },
+                {
+                    "timestamp": "2025-10-09 02:30",
+                    "bandwidth": "0.87",
+                    "traffic": "32.70",
+                    "requests": "19534"
+                },
+                {
+                    "timestamp": "2025-10-09 02:35",
+                    "bandwidth": "0.64",
+                    "traffic": "24.04",
+                    "requests": "15961"
+                },
+                {
+                    "timestamp": "2025-10-09 02:40",
+                    "bandwidth": "1.03",
+                    "traffic": "38.72",
+                    "requests": "21489"
+                },
+                {
+                    "timestamp": "2025-10-09 02:45",
+                    "bandwidth": "0.95",
+                    "traffic": "35.61",
+                    "requests": "18840"
+                },
+                {
+                    "timestamp": "2025-10-09 02:50",
+                    "bandwidth": "0.94",
+                    "traffic": "35.08",
+                    "requests": "20191"
+                },
+                {
+                    "timestamp": "2025-10-09 02:55",
+                    "bandwidth": "0.88",
+                    "traffic": "33.01",
+                    "requests": "17823"
+                },
+                {
+                    "timestamp": "2025-10-09 03:00",
+                    "bandwidth": "0.95",
+                    "traffic": "35.64",
+                    "requests": "19975"
+                },
+                {
+                    "timestamp": "2025-10-09 03:05",
+                    "bandwidth": "1.22",
+                    "traffic": "45.79",
+                    "requests": "19931"
+                },
+                {
+                    "timestamp": "2025-10-09 03:10",
+                    "bandwidth": "1.09",
+                    "traffic": "41.04",
+                    "requests": "18950"
+                },
+                {
+                    "timestamp": "2025-10-09 03:15",
+                    "bandwidth": "0.92",
+                    "traffic": "34.37",
+                    "requests": "18111"
+                },
+                {
+                    "timestamp": "2025-10-09 03:20",
+                    "bandwidth": "0.96",
+                    "traffic": "35.99",
+                    "requests": "19120"
+                },
+                {
+                    "timestamp": "2025-10-09 03:25",
+                    "bandwidth": "1.01",
+                    "traffic": "37.98",
+                    "requests": "20827"
+                },
+                {
+                    "timestamp": "2025-10-09 03:30",
+                    "bandwidth": "1.15",
+                    "traffic": "43.17",
+                    "requests": "23877"
+                },
+                {
+                    "timestamp": "2025-10-09 03:35",
+                    "bandwidth": "1.32",
+                    "traffic": "49.67",
+                    "requests": "23433"
+                },
+                {
+                    "timestamp": "2025-10-09 03:40",
+                    "bandwidth": "1.15",
+                    "traffic": "42.97",
+                    "requests": "20065"
+                },
+                {
+                    "timestamp": "2025-10-09 03:45",
+                    "bandwidth": "1.12",
+                    "traffic": "41.97",
+                    "requests": "21110"
+                },
+                {
+                    "timestamp": "2025-10-09 03:50",
+                    "bandwidth": "1.15",
+                    "traffic": "42.98",
+                    "requests": "20920"
+                },
+                {
+                    "timestamp": "2025-10-09 03:55",
+                    "bandwidth": "1.05",
+                    "traffic": "39.26",
+                    "requests": "18072"
+                },
+                {
+                    "timestamp": "2025-10-09 04:00",
+                    "bandwidth": "1.00",
+                    "traffic": "37.57",
+                    "requests": "18670"
+                },
+                {
+                    "timestamp": "2025-10-09 04:05",
+                    "bandwidth": "1.16",
+                    "traffic": "43.63",
+                    "requests": "17162"
+                },
+                {
+                    "timestamp": "2025-10-09 04:10",
+                    "bandwidth": "2.97",
+                    "traffic": "111.32",
+                    "requests": "17931"
+                },
+                {
+                    "timestamp": "2025-10-09 04:15",
+                    "bandwidth": "1.06",
+                    "traffic": "39.75",
+                    "requests": "19653"
+                },
+                {
+                    "timestamp": "2025-10-09 04:20",
+                    "bandwidth": "0.90",
+                    "traffic": "33.66",
+                    "requests": "18450"
+                },
+                {
+                    "timestamp": "2025-10-09 04:25",
+                    "bandwidth": "0.91",
+                    "traffic": "34.13",
+                    "requests": "20607"
+                },
+                {
+                    "timestamp": "2025-10-09 04:30",
+                    "bandwidth": "1.02",
+                    "traffic": "38.18",
+                    "requests": "21567"
+                },
+                {
+                    "timestamp": "2025-10-09 04:35",
+                    "bandwidth": "0.98",
+                    "traffic": "36.78",
+                    "requests": "18920"
+                },
+                {
+                    "timestamp": "2025-10-09 04:40",
+                    "bandwidth": "0.86",
+                    "traffic": "32.08",
+                    "requests": "19062"
+                },
+                {
+                    "timestamp": "2025-10-09 04:45",
+                    "bandwidth": "0.97",
+                    "traffic": "36.44",
+                    "requests": "19695"
+                },
+                {
+                    "timestamp": "2025-10-09 04:50",
+                    "bandwidth": "0.83",
+                    "traffic": "31.29",
+                    "requests": "18690"
+                },
+                {
+                    "timestamp": "2025-10-09 04:55",
+                    "bandwidth": "0.88",
+                    "traffic": "33.08",
+                    "requests": "18006"
+                },
+                {
+                    "timestamp": "2025-10-09 05:00",
+                    "bandwidth": "0.93",
+                    "traffic": "34.93",
+                    "requests": "20362"
+                },
+                {
+                    "timestamp": "2025-10-09 05:05",
+                    "bandwidth": "1.10",
+                    "traffic": "41.40",
+                    "requests": "23138"
+                },
+                {
+                    "timestamp": "2025-10-09 05:10",
+                    "bandwidth": "1.01",
+                    "traffic": "38.01",
+                    "requests": "21215"
+                },
+                {
+                    "timestamp": "2025-10-09 05:15",
+                    "bandwidth": "1.24",
+                    "traffic": "46.35",
+                    "requests": "22099"
+                },
+                {
+                    "timestamp": "2025-10-09 05:20",
+                    "bandwidth": "1.00",
+                    "traffic": "37.62",
+                    "requests": "21096"
+                },
+                {
+                    "timestamp": "2025-10-09 05:25",
+                    "bandwidth": "1.23",
+                    "traffic": "46.24",
+                    "requests": "27104"
+                },
+                {
+                    "timestamp": "2025-10-09 05:30",
+                    "bandwidth": "1.47",
+                    "traffic": "55.09",
+                    "requests": "31617"
+                },
+                {
+                    "timestamp": "2025-10-09 05:35",
+                    "bandwidth": "1.44",
+                    "traffic": "54.10",
+                    "requests": "27599"
+                },
+                {
+                    "timestamp": "2025-10-09 05:40",
+                    "bandwidth": "1.30",
+                    "traffic": "48.83",
+                    "requests": "26412"
+                },
+                {
+                    "timestamp": "2025-10-09 05:45",
+                    "bandwidth": "1.08",
+                    "traffic": "40.43",
+                    "requests": "23850"
+                },
+                {
+                    "timestamp": "2025-10-09 05:50",
+                    "bandwidth": "1.21",
+                    "traffic": "45.31",
+                    "requests": "24602"
+                },
+                {
+                    "timestamp": "2025-10-09 05:55",
+                    "bandwidth": "1.41",
+                    "traffic": "52.85",
+                    "requests": "29164"
+                },
+                {
+                    "timestamp": "2025-10-09 06:00",
+                    "bandwidth": "1.39",
+                    "traffic": "52.25",
+                    "requests": "27004"
+                },
+                {
+                    "timestamp": "2025-10-09 06:05",
+                    "bandwidth": "1.48",
+                    "traffic": "55.53",
+                    "requests": "25397"
+                },
+                {
+                    "timestamp": "2025-10-09 06:10",
+                    "bandwidth": "1.56",
+                    "traffic": "58.40",
+                    "requests": "23437"
+                },
+                {
+                    "timestamp": "2025-10-09 06:15",
+                    "bandwidth": "1.41",
+                    "traffic": "53.00",
+                    "requests": "24668"
+                },
+                {
+                    "timestamp": "2025-10-09 06:20",
+                    "bandwidth": "2.24",
+                    "traffic": "84.02",
+                    "requests": "31623"
+                },
+                {
+                    "timestamp": "2025-10-09 06:25",
+                    "bandwidth": "1.46",
+                    "traffic": "54.77",
+                    "requests": "25606"
+                },
+                {
+                    "timestamp": "2025-10-09 06:30",
+                    "bandwidth": "1.61",
+                    "traffic": "60.49",
+                    "requests": "26402"
+                },
+                {
+                    "timestamp": "2025-10-09 06:35",
+                    "bandwidth": "2.13",
+                    "traffic": "79.80",
+                    "requests": "28746"
+                },
+                {
+                    "timestamp": "2025-10-09 06:40",
+                    "bandwidth": "1.92",
+                    "traffic": "72.14",
+                    "requests": "24153"
+                },
+                {
+                    "timestamp": "2025-10-09 06:45",
+                    "bandwidth": "1.86",
+                    "traffic": "69.61",
+                    "requests": "26642"
+                },
+                {
+                    "timestamp": "2025-10-09 06:50",
+                    "bandwidth": "1.97",
+                    "traffic": "73.93",
+                    "requests": "26905"
+                },
+                {
+                    "timestamp": "2025-10-09 06:55",
+                    "bandwidth": "3.21",
+                    "traffic": "120.55",
+                    "requests": "29139"
+                },
+                {
+                    "timestamp": "2025-10-09 07:00",
+                    "bandwidth": "3.73",
+                    "traffic": "139.86",
+                    "requests": "30487"
+                },
+                {
+                    "timestamp": "2025-10-09 07:05",
+                    "bandwidth": "3.83",
+                    "traffic": "143.53",
+                    "requests": "37819"
+                },
+                {
+                    "timestamp": "2025-10-09 07:10",
+                    "bandwidth": "4.08",
+                    "traffic": "152.88",
+                    "requests": "38245"
+                },
+                {
+                    "timestamp": "2025-10-09 07:15",
+                    "bandwidth": "5.64",
+                    "traffic": "211.62",
+                    "requests": "40286"
+                },
+                {
+                    "timestamp": "2025-10-09 07:20",
+                    "bandwidth": "5.88",
+                    "traffic": "220.41",
+                    "requests": "41336"
+                },
+                {
+                    "timestamp": "2025-10-09 07:25",
+                    "bandwidth": "6.00",
+                    "traffic": "224.86",
+                    "requests": "40706"
+                },
+                {
+                    "timestamp": "2025-10-09 07:30",
+                    "bandwidth": "5.77",
+                    "traffic": "216.21",
+                    "requests": "44958"
+                },
+                {
+                    "timestamp": "2025-10-09 07:35",
+                    "bandwidth": "5.94",
+                    "traffic": "222.82",
+                    "requests": "43268"
+                },
+                {
+                    "timestamp": "2025-10-09 07:40",
+                    "bandwidth": "3.24",
+                    "traffic": "121.58",
+                    "requests": "44606"
+                },
+                {
+                    "timestamp": "2025-10-09 07:45",
+                    "bandwidth": "2.87",
+                    "traffic": "107.50",
+                    "requests": "40908"
+                },
+                {
+                    "timestamp": "2025-10-09 07:50",
+                    "bandwidth": "2.44",
+                    "traffic": "91.62",
+                    "requests": "40432"
+                },
+                {
+                    "timestamp": "2025-10-09 07:55",
+                    "bandwidth": "3.70",
+                    "traffic": "138.66",
+                    "requests": "41986"
+                },
+                {
+                    "timestamp": "2025-10-09 08:00",
+                    "bandwidth": "6.77",
+                    "traffic": "253.90",
+                    "requests": "40185"
+                },
+                {
+                    "timestamp": "2025-10-09 08:05",
+                    "bandwidth": "4.86",
+                    "traffic": "182.20",
+                    "requests": "42286"
+                },
+                {
+                    "timestamp": "2025-10-09 08:10",
+                    "bandwidth": "2.85",
+                    "traffic": "106.86",
+                    "requests": "37705"
+                },
+                {
+                    "timestamp": "2025-10-09 08:15",
+                    "bandwidth": "3.09",
+                    "traffic": "116.02",
+                    "requests": "35971"
+                },
+                {
+                    "timestamp": "2025-10-09 08:20",
+                    "bandwidth": "3.45",
+                    "traffic": "129.34",
+                    "requests": "37831"
+                },
+                {
+                    "timestamp": "2025-10-09 08:25",
+                    "bandwidth": "3.24",
+                    "traffic": "121.62",
+                    "requests": "46802"
+                },
+                {
+                    "timestamp": "2025-10-09 08:30",
+                    "bandwidth": "3.71",
+                    "traffic": "139.01",
+                    "requests": "45658"
+                },
+                {
+                    "timestamp": "2025-10-09 08:35",
+                    "bandwidth": "6.26",
+                    "traffic": "234.84",
+                    "requests": "39080"
+                },
+                {
+                    "timestamp": "2025-10-09 08:40",
+                    "bandwidth": "3.16",
+                    "traffic": "118.44",
+                    "requests": "39929"
+                },
+                {
+                    "timestamp": "2025-10-09 08:45",
+                    "bandwidth": "4.02",
+                    "traffic": "150.81",
+                    "requests": "44925"
+                },
+                {
+                    "timestamp": "2025-10-09 08:50",
+                    "bandwidth": "4.47",
+                    "traffic": "167.63",
+                    "requests": "44370"
+                },
+                {
+                    "timestamp": "2025-10-09 08:55",
+                    "bandwidth": "4.75",
+                    "traffic": "178.03",
+                    "requests": "41488"
+                },
+                {
+                    "timestamp": "2025-10-09 09:00",
+                    "bandwidth": "4.14",
+                    "traffic": "155.38",
+                    "requests": "46613"
+                },
+                {
+                    "timestamp": "2025-10-09 09:05",
+                    "bandwidth": "5.01",
+                    "traffic": "188.01",
+                    "requests": "53057"
+                },
+                {
+                    "timestamp": "2025-10-09 09:10",
+                    "bandwidth": "3.50",
+                    "traffic": "131.38",
+                    "requests": "46171"
+                },
+                {
+                    "timestamp": "2025-10-09 09:15",
+                    "bandwidth": "3.63",
+                    "traffic": "135.95",
+                    "requests": "44650"
+                },
+                {
+                    "timestamp": "2025-10-09 09:20",
+                    "bandwidth": "3.16",
+                    "traffic": "118.36",
+                    "requests": "45201"
+                },
+                {
+                    "timestamp": "2025-10-09 09:25",
+                    "bandwidth": "3.11",
+                    "traffic": "116.51",
+                    "requests": "42892"
+                },
+                {
+                    "timestamp": "2025-10-09 09:30",
+                    "bandwidth": "3.24",
+                    "traffic": "121.51",
+                    "requests": "45780"
+                },
+                {
+                    "timestamp": "2025-10-09 09:35",
+                    "bandwidth": "4.12",
+                    "traffic": "154.65",
+                    "requests": "41770"
+                },
+                {
+                    "timestamp": "2025-10-09 09:40",
+                    "bandwidth": "8.95",
+                    "traffic": "335.72",
+                    "requests": "43824"
+                },
+                {
+                    "timestamp": "2025-10-09 09:45",
+                    "bandwidth": "2.95",
+                    "traffic": "110.75",
+                    "requests": "42797"
+                },
+                {
+                    "timestamp": "2025-10-09 09:50",
+                    "bandwidth": "2.76",
+                    "traffic": "103.45",
+                    "requests": "42571"
+                },
+                {
+                    "timestamp": "2025-10-09 09:55",
+                    "bandwidth": "3.23",
+                    "traffic": "121.13",
+                    "requests": "40110"
+                },
+                {
+                    "timestamp": "2025-10-09 10:00",
+                    "bandwidth": "4.34",
+                    "traffic": "162.71",
+                    "requests": "40050"
+                },
+                {
+                    "timestamp": "2025-10-09 10:05",
+                    "bandwidth": "2.52",
+                    "traffic": "94.58",
+                    "requests": "41766"
+                },
+                {
+                    "timestamp": "2025-10-09 10:10",
+                    "bandwidth": "3.19",
+                    "traffic": "119.66",
+                    "requests": "41809"
+                },
+                {
+                    "timestamp": "2025-10-09 10:15",
+                    "bandwidth": "2.80",
+                    "traffic": "104.99",
+                    "requests": "40822"
+                },
+                {
+                    "timestamp": "2025-10-09 10:20",
+                    "bandwidth": "3.32",
+                    "traffic": "124.59",
+                    "requests": "42455"
+                },
+                {
+                    "timestamp": "2025-10-09 10:25",
+                    "bandwidth": "4.87",
+                    "traffic": "182.63",
+                    "requests": "40630"
                 }
 				
             ]
